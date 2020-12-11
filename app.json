@@ -1,0 +1,12 @@
+{
+  "name": "KillMe",
+  "displayName": "KillMe",
+  "expo": {
+    "name": "KillMe",
+    "slug": "KillMe",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
